@@ -1,0 +1,44 @@
+.img10 {
+    background-image: url(https://preview.colorlib.com/theme/vacation/images/person_2.jpg.webp);
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.item {
+    width: 290px;
+    height: 312px;
+}
+
+.tt1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tt2 {
+    margin-left: 50px;
+}
+
+.owl-carousel {
+    background-image: url(https://preview.colorlib.com/theme/vacation/images/bg_3.jpg.webp);
+    background-size: cover;
+    width: 1033px;
+    height: 701px;
+}
+
+.img11 {
+    background-image: url(https://preview.colorlib.com/theme/vacation/images/person_1.jpg.webp);
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.img12 {
+    background-image: url(https://preview.colorlib.com/theme/vacation/images/person_3.jpg.webp);
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
